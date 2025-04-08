@@ -4,41 +4,28 @@ seo:
   description: A multilingual, clean, green, 11ty starter theme. elva provides solid foundations for your next web project and a built in CMS for managing content.
 ---
 
-A multilingual, clean, green, [11ty starter theme](https://www.11ty.dev/docs/starter/). [elva](https://github.com/scottsweb/elva) provides solid foundations for your next web project and a built in CMS ([Front Matter CMS](https://frontmatter.codes/)) for managing content. You are currently viewing the demo site which also contains a [little documentation]({{ "/" | locale_url }}) to help get you started. Head over to [GitHub to make feature requests, pull requests and report issues](https://github.com/scottsweb/elva/issues).
+## No Redeeming Features
+_Film & Theatre Production | Est. 1998_
 
-{% image "/assets/img/screenshots.png", "Screenshot of elva in VSCodium and the browser", "100vw", "elva uses Front Matter CMS for easy content management", "rounded", "lazy", "auto", "async", "2400", "1688" %}
+Founded by Emma Malin and David Parker in 1998, No Redeeming Features is an award-winning film and theatre production company known for its dark humour, bold storytelling, and creative flair.
 
-Features include:
+From winning The Foundry Horror Fest in 1999 with a trilogy of short horror films, to taking home Best Film in the UK-wide 48 Hour Film Challenge with The Modernista in 2001, we've consistently pushed boundaries across genres. That same year, we were honoured with Film of the Year by the Fringe Report.
 
-### Performance things
+Our original street theatre production, What The Dickens?, reimagined the life and works of Charles Dickens with a gothic twist. Performed two years running, it became a standout piece thanks to our collaboration with The Page Mason School of Dance & Drama.
 
-* Optimised CSS, JS and HTML
-* Responsive image shortcode that supports lazy loading and modern formats (avif, webp)
-* Support for the [Photon CDN](https://developer.wordpress.com/docs/photon/) (can be turned on via settings)
+Over the years, we've toured nationally with our cult-favourite Rocky Horror Picture Show Shadow Cast, and worked closely with local drama schools and emerging talent.
 
-### Accessibility things
+For the past 17 years, we've proudly contributed to the iconic Notting Hill Carnival, designing and producing a theatrical static sound stage on Talbot Road.
 
-* [Multilingual](https://www.11ty.dev/docs/plugins/i18n/)
-* Dark / light mode (see the toggle in the footer)
-* Skip link and ARIA hints
+Our creative reach also extends into commercial work, including a full campaign for luxury leather goods brand Claremont. Most recently, we partnered with legendary game creator Mark Rein-Hagen as writers and associate producers on the teaser film for his latest project, I Am Zombie.
 
-### Standards things
+### Selected Highlights
 
-* [RSS feed]({{ "/feed/feed.xml" | locale_url }}) with XSLT styles
-* [JSON feed]({{ "/feed/feed.json" | locale_url }})
-* [Sitemap](/sitemap.xml)
-* [Web manifest for PWAs]({{ "/site.webmanifest" | locale_url }})
-* [humans.txt](/humans.txt) 
-* [robots.txt](/robots.txt)
-* Discourage [AI bots](https://github.com/ai-robots-txt/ai.robots.txt/)
-
-### Other things
-
-* [Front Matter CMS](https://frontmatter.codes/)
-* Open graph image generation from within Front Matter CMS (dev server must be running)
-* Draft support
-* [Syntax highlighting](https://www.11ty.dev/docs/plugins/syntaxhighlight/)
-* [Simplified embeds for YouTube, Vimeo etc](https://github.com/gfscott/eleventy-plugin-embed-everything)
-* Plenty of helpful filters and functions
-* [Alpine.js](https://alpinejs.dev/)
-* [Eleventy Fetch](https://www.11ty.dev/docs/plugins/fetch/)
+🎥 Winner – 48 Hour Film Challenge: "The Modernista" (2001)
+🧟 Winner – The Foundry Horror Fest (1999)
+🏆 Film of the Year – Fringe Report (2001)
+🎭 National tour of Rocky Horror Picture Show shadow cast
+🌍 Annual theatrical installation at Notting Hill Carnival (17+ years)
+👜 Creative campaign for Claremont Luxury Goods
+🧬 Teaser film for Mark Rein-Hagen’s I Am Zombie
+📍 London-based | 🖥️ www.noredeemingfeatures.co.uk
