@@ -1,6 +1,6 @@
 <nav class="navigation">
     <a class="site-logo" href="/" {% if page.url === '/' %}aria-current="page"{% endif %} aria-label="{{ 'header.home' | translate }}">
-        <img src="nrflogo.png" width="200" alt="No Redeeming Features">
+        <img src="/assets/img/nrflogo.png" width="200" alt="No Redeeming Features">
     </a>
     <ul class="navigation-menu">
         {% for item in navigation[page.lang] %}
