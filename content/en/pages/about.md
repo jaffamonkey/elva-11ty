@@ -21,11 +21,10 @@ Our creative reach also extends into commercial work, including a full campaign 
 
 ### Selected Highlights
 
-🎥 Winner – 48 Hour Film Challenge: "The Modernista" (2001)
-🧟 Winner – The Foundry Horror Fest (1999)
-🏆 Film of the Year – Fringe Report (2001)
-🎭 National tour of Rocky Horror Picture Show shadow cast
-🌍 Annual theatrical installation at Notting Hill Carnival (17+ years)
-👜 Creative campaign for Claremont Luxury Goods
-🧬 Teaser film for Mark Rein-Hagen’s I Am Zombie
-📍 London-based | 🖥️ www.noredeemingfeatures.co.uk
+- Winner – 48 Hour Film Challenge: "The Modernista" (2001)
+- Winner – The Foundry Horror Fest (1999)
+- Film of the Year – Fringe Report (2001)
+- National tour of Rocky Horror Picture Show shadow cast
+- Annual theatrical installation at Notting Hill Carnival (17+ years)
+- Creative campaign for Claremont Luxury Goods
+- Teaser film for Mark Rein-Hagen’s I Am Zombie
